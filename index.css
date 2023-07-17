@@ -4,7 +4,8 @@ body {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    color: burlywood;
    font-weight: bolder;
-   font-size: 1.09rem
+   font-size: 1.09rem;
+   margin-top: 50px;
 
 }
 
