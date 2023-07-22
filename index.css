@@ -6,6 +6,8 @@ body {
    font-weight: bolder;
    font-size: 1.09rem;
    margin-top: 50px;
+   background: url("https://images.unsplash.com/photo-1655159428752-c700435e9983?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBqYWNrJTIwZ2FtZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60") no-repeat fixed;
+   background-size: cover; 
 
 }
 
@@ -17,9 +19,9 @@ h1 {
     font-style: italic;
 }
 .msg-div{
-   background-image: url("https://images.unsplash.com/photo-1655159428752-c700435e9983?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBqYWNrJTIwZ2FtZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60");
-    background-size: cover;
-    max-width: 80vh;
+    border: 6px solid goldenrod;
+    max-width: 110vh;
+    height: 100%;
     padding: 5px;
     margin: auto;
 }
